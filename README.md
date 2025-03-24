@@ -1,3 +1,5 @@
+[▶️ Prezentacja wideo na Google Drive](https://drive.google.com/file/d/1PFIztYdQdq9YM1SaUBCnDUtARA6SzyS3/view?usp=sharing)
+
 Załączone pliki są częścią prezentacji projektu wykonanego w celu rozwijania moich umiejętności programowania sterowników rodziny Siemens wraz z interfejsami HMI. Projekt ten jest efektem pracy nad praktycznym wykorzystaniem zdobytych przeze mnie  umiejętności i może posłużyć jako przykład mojego podejścia do rozwiązywania problemów w dziedzinie automatyki. 
 
 Zadanie i funkcje stanowiska:
